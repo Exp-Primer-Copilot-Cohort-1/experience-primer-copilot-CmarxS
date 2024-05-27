@@ -1,6 +1,6 @@
 function skilsMember() {
     return {
-        name: 'skilsMember',
+        name: 'skillsMember',
         restrict: 'E',
         templateUrl: 'templates/member.html'
     }
